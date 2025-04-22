@@ -11,5 +11,5 @@
 
 ---
 
-✍️ Por: Ricardo López (Riky)  
+✍️ Por: rlopez0  
 🏠 Entorno: `pve.homelab01.local`

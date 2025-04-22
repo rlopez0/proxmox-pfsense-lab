@@ -169,7 +169,7 @@ Esto permite que **cualquier equipo en la red 192.168.0.0/24** acceda a las VMs 
 
 ---
 
-**Documentado por:** Riky (Ricardo López)
+**Documentado por:** rlopez0
 
 **Entorno:** `pve.homelab01.local` - Proxmox con red aislada para labs
 
